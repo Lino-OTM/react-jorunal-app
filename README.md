@@ -7,7 +7,7 @@ After you log in you can create your own notes, and upload your own images for e
 
 ![](/screenshot.png)
 
-Link: https://incandescent-moxie-f618fd.netlify.app
+Link: https://lucent-baklava-54b09f.netlify.app/
 
 ### Built with:
 
